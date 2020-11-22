@@ -1,2 +1,3 @@
-# larning_test
-Testing project
+Spring Boot
+
+Firebase-Store as DB
